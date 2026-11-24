@@ -3,9 +3,20 @@
 Dari satu gambar sampai kerangka 3D, dengan landmark yang terlihat di setiap langkah.
 Memakai MediaPipe Pose Landmarker (33 titik tubuh).
 
+Panduan lengkap dengan teori dan visualisasi: [Panduan_Praktik_Pose_Estimation.pdf](Panduan_Praktik_Pose_Estimation.pdf) (22 halaman).
+
 ## Pasang
 
 Python 3.10 sampai 3.12 disarankan.
+
+Unduh lewat tombol Code lalu Download ZIP, atau clone:
+
+```
+git clone https://github.com/taufiqmus/belajar-pose.git
+cd belajar-pose
+```
+
+Lalu pasang:
 
 ```
 python -m venv .venv
