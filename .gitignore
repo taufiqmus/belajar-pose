@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+hasil/
+models/*.unduh
+models/pose_landmarker_full.task
+models/pose_landmarker_heavy.task
+*.jpg
+*.jpeg
+*.png
+*.mp4

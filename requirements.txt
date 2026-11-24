@@ -1,0 +1,4 @@
+# Jangan menambah opencv-python: mediapipe sudah membawa opencv-contrib-python,
+# dan dua paket OpenCV dalam satu environment saling menimpa.
+mediapipe>=0.10.14
+matplotlib
